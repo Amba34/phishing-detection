@@ -106,18 +106,6 @@ Training metrics are displayed after running `train_models.py`. Typical performa
 
 *(Results may vary based on train/test split)*
 
-## Contributing
-
-Feel free to:
-- Add more training examples to `data/emails.csv`
-- Experiment with different models
-- Add new features
-- Improve the dashboard UI
-
-## License
-
-MIT License
-
 ## Author
 
 Created as a demonstration project for email spam/phishing detection.
